@@ -10,5 +10,6 @@
 <body>
 <h2>Bienvenido a la práctica Git </h2>
 <h3>¿sabes qués es git?</h3>
+<script src="script/script.js"></script>
 </body>
 </html>
